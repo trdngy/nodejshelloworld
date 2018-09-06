@@ -1,0 +1,14 @@
+{
+  "name": "hellomadafaka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "xxx"
+  },
+  "keywords": [
+    "xxx"
+  ],
+  "author": "xxx",
+  "license": "ISC"
+}
